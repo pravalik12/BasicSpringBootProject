@@ -1,1 +1,1 @@
-# BasicSpringBootProject
+# spring-azure-demo
